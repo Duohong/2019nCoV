@@ -2,6 +2,8 @@
 
 ![NewCases 各国新增](/Countries.png)
 
+![NewCases 各国新增 vs Sum 累计](/DailyCountries.png)
+
 ![China CurrentCases 全国现有](/CurrentCases.png)
 
 ![China NewCases 全国新增](/NewCases.png)
