@@ -1,6 +1,6 @@
 # Coronavirus disease 2019 (COVID-19) 新型冠状病毒
 
-![NewCases 各国新增](/Countries.png)
+![Daily New Cases Per Million People 每日新增确诊每百万人口](/CountryMillion.png)
 
 ![NewCases 各国新增 vs Sum 累计](/DailyCountries.png)
 
